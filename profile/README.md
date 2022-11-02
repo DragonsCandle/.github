@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+We should make games. But since 2017 we do nothing.
 <!--
 
 **Here are some ideas to get you started:**
